@@ -1,4 +1,4 @@
-# <img src="./logo.png" height="40px"> NTC Studios
+# <img src="./profile/logo.png" height="40px"> NTC Studios
 
 NTC Studios consists of two developers who have never made a game before. This organisation contains all the code (and likely assets) used to make and host our game(s).
 
